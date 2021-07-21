@@ -9,6 +9,11 @@
       "UnauthRoleName": "amplify-app4-dev-41414-unauthRole",
       "StackName": "amplify-app4-dev-41414",
       "StackId": "arn:aws:cloudformation:us-east-2:929364911291:stack/amplify-app4-dev-41414/067064d0-ea04-11eb-a747-0ac33d1bf8fc"
+    },
+    "categories": {
+      "auth": {
+        "app4ca78c7ee": {}
+      }
     }
   }
 }
